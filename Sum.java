@@ -8,7 +8,9 @@ public class Sum {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter The Two Numbers");
 		
+		System.out.println("Enter A Values : ");
 		int a = sc.nextInt();
+		System.out.println("Enter B Values : ");
 		int b = sc.nextInt();
 		
 		int c = a + b ;
